@@ -1,0 +1,1 @@
+# boolize_attr
